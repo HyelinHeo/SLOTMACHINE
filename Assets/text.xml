@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMLList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Items>
+    <XMLListItem>
+      <ID>1</ID>
+      <Txt>테스트</Txt>
+      <ImgSrc>C:d.jpg</ImgSrc>
+    </XMLListItem>
+  </Items>
+</XMLList>

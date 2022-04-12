@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMLList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ID>2</ID>
+  <Name>Runes</Name>
+  <Lines>
+    <XMLListLine>
+      <ID>0</ID>
+    </XMLListLine>
+    <XMLListLine>
+      <ID>1</ID>
+    </XMLListLine>
+    <XMLListLine>
+      <ID>2</ID>
+      <Items>
+        <XMLListItem>
+          <ID>0</ID>
+          <Txt>결의</Txt>
+          <ImgSrc>C:\Maprex_Project\SLOTMACHINE\data\2\결의.PNG</ImgSrc>
+        </XMLListItem>
+        <XMLListItem>
+          <ID>1</ID>
+          <Txt>마법</Txt>
+          <ImgSrc>C:\Maprex_Project\SLOTMACHINE\data\2\마법.PNG</ImgSrc>
+        </XMLListItem>
+        <XMLListItem>
+          <ID>2</ID>
+          <Txt>영감</Txt>
+          <ImgSrc>C:\Maprex_Project\SLOTMACHINE\data\2\영감.PNG</ImgSrc>
+        </XMLListItem>
+        <XMLListItem>
+          <ID>3</ID>
+          <Txt>정밀</Txt>
+          <ImgSrc>C:\Maprex_Project\SLOTMACHINE\data\2\정밀.PNG</ImgSrc>
+        </XMLListItem>
+        <XMLListItem>
+          <ID>4</ID>
+          <Txt>지배</Txt>
+          <ImgSrc>C:\Maprex_Project\SLOTMACHINE\data\2\지배.PNG</ImgSrc>
+        </XMLListItem>
+      </Items>
+    </XMLListLine>
+  </Lines>
+</XMLList>
